@@ -1,0 +1,40 @@
+/* Estilizando a seção 'Sobre Mim' */
+.sobremim {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 40px;
+    text-align: center; /* Centraliza o texto */
+}
+
+/* Estilizando o cabeçalho da seção */
+.sobremim h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Estilizando o conteúdo da seção */
+.sobremim .about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estilizando a imagem */
+.sobremim .about-content img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilizando o parágrafo */
+.sobremim .about-content p {
+    font-size: 1.2em;
+    color: #333;
+    max-width: 600px; /* Limita a largura do texto */
+    margin: 0 auto; /* Centraliza o texto */
+}
+

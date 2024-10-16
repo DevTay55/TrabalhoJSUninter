@@ -1,0 +1,21 @@
+#trabalhos {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#trabalhos h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#trabalhos a {
+    color: #007acc;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+#trabalhos a:hover {
+    text-decoration: underline;
+}
