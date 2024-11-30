@@ -1,0 +1,22 @@
+#whatsapp {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+#whatsapp h2 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#whatsapp a img {
+    transition: transform 0.3s ease;
+}
+
+#whatsapp a:hover img {
+    transform: scale(1.1);
+}

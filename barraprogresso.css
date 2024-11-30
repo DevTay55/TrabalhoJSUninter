@@ -1,0 +1,42 @@
+#skills {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+#skills h2 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.skill span {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2em;
+    color: #555;
+}
+
+.progress-container {
+    width: 80%;
+    background-color: #e0e0e0;
+    border-radius: 25px;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.progress-bar {
+    height: 25px;
+    background-color: #76c7c0;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 25px;
+    color: white;
+    transition: width 0.4s ease;
+}

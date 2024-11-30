@@ -1,4 +1,3 @@
-/*style pagina principal*/
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -15,7 +14,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 150px; /* Define a altura desejada para o cabeçalho */
+    height: 150px; 
 }
 
 .header-content h1 {
